@@ -1,23 +1,25 @@
-body{
+.class1{
 	padding: 0;
-	margin: 2220;
+	margin: 0 auto;
 }
-header, footer {
+.strong-black{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+.class2{
 	background: gray;
 	padding: 50px 0;
 	text-align: center;
 }
-h1{
-	text-align: center;
-	font-size: 30px;
-}
-div {
+
+.class3{
 	width: 1200px;
 	margin: 0 auto;
 	overflow: hidden;
 	height: 200px;
 }
-aside, main{
+.class4{
 	width: 50%;
 	float: left;
 }
